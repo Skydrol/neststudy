@@ -7,6 +7,6 @@ export class AppService {
   }
 
   getUsers(): string {
-    return 'Get users mother fucker!';
+    return 'Get users!';
   }
 }
